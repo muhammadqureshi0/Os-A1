@@ -1,0 +1,5 @@
+my name is qureshi
+qureshi is my name
+the name of this file's owner is qureshi
+if a name were to be specified to whom this file belongs then that name would be qureshi
+In summmation, name = qureshi
